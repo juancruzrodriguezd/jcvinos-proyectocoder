@@ -1,0 +1,9 @@
+$colores:
+red,
+black,
+beige,
+white;
+
+.enlace{
+    color: nth($colores, 1);
+}
