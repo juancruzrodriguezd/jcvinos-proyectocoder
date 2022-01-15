@@ -428,6 +428,29 @@ h2 {
   .menu li {
     margin: 25px 0;
   }
+
+  .section-padre {
+    flex-wrap: wrap;
+  }
+
+  .info-nosotros {
+    width: 100%;
+  }
+
+  .bodega {
+    width: 100%;
+    margin-right: 0;
+  }
+
+  .bodega img {
+    width: 100%;
+  }
+
+  .ubicacion {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+  }
 }
 @media only screen and (min-width: 900px) {
   .section-padre {
